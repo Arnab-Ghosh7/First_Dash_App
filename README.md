@@ -1,6 +1,6 @@
-#This is my first app using Dash
+# This is my first app using Dash
 
-##Libraries
+# Libraries
 Dash
 Pandas
 Plotly
