@@ -13,4 +13,4 @@ Arnab Ghosh('https://github.com/Arnab-Ghosh7')
 
 ### Preview
 
-![Overall Analysis](resources/oass.png)
+(Resources/Demo.png)
