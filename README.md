@@ -13,4 +13,4 @@ Arnab Ghosh('https://github.com/Arnab-Ghosh7')
 
 ### Preview
 
-!(Resources/Demo.png)
+!('Resources/Demo.png')
